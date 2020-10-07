@@ -1,26 +1,49 @@
-# JavaScript Quiz
+# Development Strategy
 
-...
+> `Asyncronous week 3`
 
----
+## todo-list-with-API
 
-## User Story Dependencies
+### WIREFRAME
 
-[Story Dependency Diagram](https://excalidraw.com/)
-
----
-
-## WIREFRAME
-
-![wireframe]()
+![wireframe](/wireframe-1.png)
 
 ---
 
-## 0.Setup
+## 0. Set-Up
+
+_A User can see my initial repository and live demo_
+
+### Repository
+
+- Created a new repository to fork from this [repository](https://github.com/HackYourFutureBelgium/restful-pjs)
+- Cloned the repository
+- Added a wireframe
+- Started the development strategy
+- Pushed the changes to GitHub
+- Turned on GitHub Pages
 
 ---
 
 ## 1. Initialize Application
+
+__As a user I want to see the initial page when I load the site__
+
+### REPO
+
+- This user story is developed on branch `master`.
+
+### Task A
+
+- HTML is created
+
+### Task B
+
+- CSS style is created
+
+---
+
+## 2. 
 
 __As a user I want to see the initial page when I load the site__
 
@@ -29,7 +52,7 @@ __As a user I want to see the initial page when I load the site__
 
 ### REPO
 
-- This user story is developed on branch `_`.
+- This user story is developed on branch `master`.
 - This branch is merged to `master` branch after completion.
 
 ### Task A
@@ -37,7 +60,3 @@ __As a user I want to see the initial page when I load the site__
 ### Task B
 
 ### Task ...
-
----
-
-## ...
