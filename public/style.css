@@ -64,7 +64,7 @@ header {
   width: 40%;
   padding: 10px;
 }
-.checkbox {
+#checkbox {
   align-self: center;
   margin-right: 20px;
   transform:scale(1.2);
@@ -73,7 +73,7 @@ header {
   font-size: 18px;
   list-style: none;
 }
-.remove-item {
+#remove-item {
   width: 40px;
   border-style: none;
   background-color: #46d323;
