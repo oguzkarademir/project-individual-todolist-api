@@ -1,14 +1,15 @@
 {
   "name": "restful-pjs",
   "version": "1.0.0",
-  "description": "",
-  "main": "",
+  "description": "node app ",
+  "main": "app.js",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "node app.js"
   },
   "author": "@hackyourfuturebelgium",
   "license": "CC BY-SA",
   "dependencies": {
     "json-server": "^0.16.1"
-  }
+  },
+  "homepage": ""
 }

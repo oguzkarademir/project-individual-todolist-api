@@ -2,8 +2,13 @@
   "todos": [
     {
       "todoText": "asdfg",
-      "completed": false,
+      "completed": true,
       "id": 1
+    },
+    {
+      "todoText": "asd",
+      "completed": false,
+      "id": 2
     }
   ]
 }
