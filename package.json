@@ -1,19 +1,14 @@
 {
-  "name": "coolnodeapp",
+  "name": "restful-pjs",
   "version": "1.0.0",
-  "description": "node app ",
-  "main": "app.js",
+  "description": "",
+  "main": "",
   "scripts": {
-  "start": "node app.js"
-},
-  "repository": {
-  "type": "git",
-  "url": ""
-},
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-  "url": ""
-},
-  "homepage": ""
+    "start": "node server.js"
+  },
+  "author": "@hackyourfuturebelgium",
+  "license": "CC BY-SA",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
 }
