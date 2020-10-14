@@ -2,7 +2,8 @@ import { App } from '../app.js';
 
 async function fetchPostById() {
     
-    const response = await fetch ('http://project-todo-list-api.heroluapp.com/todos');
+    const response = await fetch ('http://localhost:3000/todos');
+
     const data = await response.json();
 
     return data;
