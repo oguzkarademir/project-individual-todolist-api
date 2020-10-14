@@ -6,7 +6,7 @@ export class App {
     }
 
     fetchPost(){
-        fetch('/todos', {
+        fetch('http://localhost:3000/todos', {
             method: 'POST',
             body: JSON.stringify({
                 todoText: this.title,
